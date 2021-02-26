@@ -1,4 +1,10 @@
+@charset "UTF-8"
+ * { margin: 0; padding: 0; border: 0; font-size: 100%; }
  h1 {color: blue; text-decoration: underline; font-size: 20px; }
-          #my-id {background-color: lightblue}
-          .my-class {font-style: italic}
-          .my-container {margin-right: auto; margin-left:  auto; max-width: 960px; padding-right: 10px; padding-left: 10px; border: 1px solid blue;}
+          #my-id {background-color: lightblue; text-align: center; text-shadow: -1px 0px 36px}
+          .my-class {font-size: x-large; color: blue; font-family: 'DotGothic16', sans-serif}
+          .my-container {margin-right: auto; margin-left:  auto; max-width: 960px; padding-right: 10px; padding-left: 10px; border: 1px solid blue;text-align: center;}
+          .my-image{text-align: center}
+ h2 {text-align: center}
+
+ body {background-image: url(..images/landscape.jpg);} 
